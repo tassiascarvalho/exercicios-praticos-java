@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Tassia
  */
-public class ParImpar {
+public class Ex9ParImpar {
 
     /**
      * @param args the command line arguments
