@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Tassia
  */
-public class OrdemCrescente {
+public class ordemcrescente {
 
     /**
      * @param args the command line arguments

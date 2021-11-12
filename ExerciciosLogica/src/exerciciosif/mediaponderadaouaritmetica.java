@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Meus Documentos
  */
-public class NumMaior {
+public class mediaponderadaouaritmetica {
 
     /**
      * @param args the command line arguments
@@ -35,7 +35,7 @@ public class NumMaior {
         
         if("A".equals(op)){
             media = (n1+n2+n3)/3;
-            System.out.println("A Média foi: "+media);
+            System.out.println("A Média foi: " + media);
         }else if("B".equals(op)){
             media = (n1*3+n2*3+n3*4)/10;
             System.out.println("A média foi: " + media);

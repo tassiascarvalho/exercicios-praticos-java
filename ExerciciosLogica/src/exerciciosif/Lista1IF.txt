@@ -1,0 +1,12 @@
+EXERCÍCIOS DE UM IF
+1.	Desenvolva um software para receber um número, você deverá analisar se o número informado é Maior ou menor do que 100. Caso seja, maior retornar um msg, " O número informado é maior do que 100", caso contrário "O número informado é menor do que 100". (NUMERO>100)
+2.	Desenvolva um software para receber a quantidade de alunos de uma sala de aula, analisar se deverá acontecer divisão de turma, para que haja divisão de turma, são necessários pelo menos 30 alunos.
+3.	Desenvolva um software para receber um número, verificar se número informado é positivo ou negativo (numero>=0).
+4.	Calcular a multa: Leia a velocidade de um carro: Informe "50 reais de multa" se estiver acima de 110. Caso contrário jogar uma mensagem de "Bom motorista".
+5.	Desenvolva um software para verificar se o número digitado pertence ao intervalo de 1..50. (NUM>=1 && NUM<=50)
+6.	Está acontecendo uma campanha de doação de sangue na cidade de Fernandópolis, mas existem algumas restrições para doação, onde o peso deve ser maior ou igual a 50 e ter pelo menos 16 anos de idade. Desenvolva um software para receber o nome, o peso e a idade de uma pessoa, como resultado exiba uma mensagem informando se "pode doar", ou se "não pode doar"
+7.	Faça um programa que valide a nota digitada pelo usuário, ou seja, verifique se a nota está entre 0 e 10.
+8.	Faça uma calculadora para as operações de Soma e Subtração (receber apenas dois números e a operação).
+9.	Escreva um programa que leia dois números inteiros e determine qual é o menor.
+10.	Faça um programa que some dois números naturais (Maiores que zero). Porém, caso o usuário digite um número negativo, seu programa deve convertê-lo para positivo automaticamente e realizar a soma.
+

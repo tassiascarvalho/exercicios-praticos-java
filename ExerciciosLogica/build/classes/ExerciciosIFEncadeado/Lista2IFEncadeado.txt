@@ -1,0 +1,31 @@
+EXERCÍCIOS IF ENCADEADO
+1.	Desenvolva um software para classificar um hotel de acordo com a quantidade de estrelas:
+1 estrela  - Péssimo
+2 estrelas - Ruim
+3 estrelas - Médio
+4 estrelas - Bom 
+5 estrelas – Ótimo
+
+2.	Desenvolva um software para calcular o reajuste salarial. Por padrão, o aumento será de 15%. Entretanto, deve ser aplicada uma regra diferente para cada faixa salarial. Regras:
+para 1.500,00 >= salarioAtual < 1.750,00: aumento igual a 12%
+para 1.750,00 >= salarioAtual < 2.000,00: aumento igual a 10%
+para 2.000,00 >= salarioAtual < 3.000,00: aumento igual a 7%
+para acima de 3.000,00: aumento igual a 5%.
+
+3.	Faça um programa que verifique se os três lados digitados pelo usuário podem formar um triângulo. Em caso positivo, classifique o triângulo em “Equilátero”, “Escaleno” ou “Isósceles”.
+
+4.	Faça um programa que cuide da temperatura de uma máquina. Seu programa deve exibir:   “TEMPERATURA ALTA DEMAIS – LIGANDO SIRENE”   “TEMPERATURA BAIXA DEMAIS – LIGANDO SIRENE”   “TEMPERATURA NORMAL” Como não temos uma máquina, vamos simular a leitura de temperatura via teclado. Peça para que o usuário digite a temperatura da máquina. A máquina trabalha normalmente em temperaturas entre 50º negativos e 50º positivos.
+
+5.	Faça um programa que leia três números e diga ao usuário qual foi o MAIOR e o MENOR número digitado.
+
+6.	Faça uma calculadora para as operações de Soma, Subtração, Multiplicação e Divisão. Adicione também a opção “SAIR” ao seu menu de operações.
+
+
+7.	Faça um programa que calcule a média de um aluno da Etec de Fernandópolis e exiba na tela se ele foi “Aprovado”, “Reprovado” ou ficou de “Recuperação”. O programa deve ler a nota de 4 bimestres e calcular a média para tomada de decisão.
+0 –  <4 : REPROVADO
+>=4 – <7 : RECUPERAÇÃO
+>=7 – 10 : APROVADO
+
+8.	Faça um programa que leia um número digitado pelo usuário e diga se o número é POSITIVO, NEGATIVO ou NULO.
+
+9.	Faça um programa onde o usuário tente adivinhar o número que você guardou na gaveta chamada “secreto”. Dê dicas ao usuário sobre se o número chutado foi muito ALTO ou muito BAIXO.
