@@ -45,6 +45,7 @@ public class Ex2ReajusteSalarial {
               System.out.println("Valor Atual: " + salario);
               System.out.println("Valor Reajuste: " + reajuste);
               System.out.println("Valor Novo Salario: " + (salario + reajuste));
+              ler.close();
        }
 
 }

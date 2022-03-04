@@ -45,7 +45,7 @@ public class ex8 {
             }
             System.out.println("Somatoria de numeros pares: " + numpar);
             System.out.println("Somatoria de numeros impar: " + numimpar);
-
+            ler.close();
         }
 
     }

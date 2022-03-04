@@ -19,21 +19,22 @@ public class SomaTotal {
     public static void main(String[] args) {
         // Perguntar qts vezes irá repetir
         Scanner ler = new Scanner(System.in);
-        Integer numero=0;
-        Double total=0.0;
-        //Inicialização
+        Integer numero = 0;
+        Double total = 0.0;
+        // Inicialização
         System.out.println("Informe quantos vezes irá repetir");
-        Integer contadora= ler.nextInt();
-        
-        while(contadora >= 1){
-                System.out.println("Informe o número:");
-                numero= ler.nextInt();
-                //variavel acumulativa
-                total = total+numero;
-                
-                contadora--;//iteração
+        Integer contadora = ler.nextInt();
+
+        while (contadora >= 1) {
+            System.out.println("Informe o número:");
+            numero = ler.nextInt();
+            // variavel acumulativa
+            total = total + numero;
+
+            contadora--;// iteração
         }
-         System.out.println("A soma total é: "+total);
-    }   
-    
+        System.out.println("A soma total é: " + total);
+        ler.close();
+
+    }
 }

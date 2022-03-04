@@ -19,16 +19,20 @@ public class SomaProdutos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner ler = new Scanner (System.in);
-        String  descricao = "P";
-        Double preco, totalcompra;
-        
-        while(!"FIM".equals(descricao)){
-                System.out.println("Informe a descrição");
-                descricao = ler.next();
-                System.out.println("Informe o valor");
-                preco = ler.nextDouble();
+        Scanner ler = new Scanner(System.in);
+        String descricao = "P";
+        Double preco, totalcompra = 0.0;
+
+        while (!"FIM".equals(descricao)) {
+            System.out.println("Informe a descrição");
+            descricao = ler.next();
+            System.out.println("Informe o valor");
+            preco = ler.nextDouble();
+
+            totalcompra = preco + totalcompra;
         }
+        System.out.println("O valor total � " + totalcompra);
+        ler.close();
     }
-    
+
 }

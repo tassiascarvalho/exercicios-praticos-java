@@ -41,6 +41,7 @@ public class ex9 {
 
         }
         System.out.println("media dos alunos da sala é " + mediatotal / x);
+        ler.close();
     }
 
 }

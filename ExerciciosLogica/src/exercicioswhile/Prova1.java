@@ -62,5 +62,6 @@ public class Prova1 {
         System.out.println("Total de Votos Chiquinha: " + totalvchiquinha);
         System.out.println("Total de Votos Nulo: " + totalvnulo);
         System.out.println("Total de Votos Brancos: " + totalvbranco);
+        ler.close();
     }
 }

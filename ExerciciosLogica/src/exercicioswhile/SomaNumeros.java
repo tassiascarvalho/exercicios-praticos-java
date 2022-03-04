@@ -39,6 +39,7 @@ public class SomaNumeros {
             total = total + numero;
         }
         System.out.println("O total é :" + total);
+        ler.close();
     }
 
 }

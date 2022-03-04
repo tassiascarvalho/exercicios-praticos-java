@@ -5,8 +5,6 @@
  */
 package exercicioswhile;
 
-import java.util.Scanner;
-
 /**
  *
  * @author Tassia

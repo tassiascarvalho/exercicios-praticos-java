@@ -40,6 +40,7 @@ public class Ex3Triangulos {
         } else if (lado1 == lado2 || lado2 == lado3 || lado1 == lado3) {
             System.out.println("Isósceles");
         }
+        ler.close();
     }
 
 }

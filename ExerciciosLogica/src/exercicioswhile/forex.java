@@ -32,6 +32,7 @@ public class forex {
             System.out.println(x);
 
         }
+        ler.close();
     }
 
 }

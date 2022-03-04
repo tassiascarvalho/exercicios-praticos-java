@@ -40,7 +40,7 @@ public class ex10 {
         }
 
         System.out.println("O preço a ser pago é: R$" + totalp);
-
+        ler.close();
     }
 
 }

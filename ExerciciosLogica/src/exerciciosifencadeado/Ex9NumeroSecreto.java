@@ -41,7 +41,7 @@ public class Ex9NumeroSecreto {
         }
 
         System.out.println("O número secreto é: " + secreto);
-
+        ler.close();
     }
 
 }
